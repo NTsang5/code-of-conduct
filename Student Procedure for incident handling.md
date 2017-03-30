@@ -1,5 +1,7 @@
 _This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”._
 
+-------------------------------------------------------------------------------------------------
+
 1\. RMOTR staff is prepared to handle any incident that violates the [code of conduct policy](https://github.com/rmotr/code-of-conduct/blob/master/code_of_conduct.md) and knows how to handle any type of harassment. 
 
 2\. Report the harassment incident (preferably in writing) to any RMOTR staff member. All reports
