@@ -44,10 +44,10 @@ If the matter is especially urgent, please call/contact any of these individuals
 
 rmotr.com staff will be in charge of assisting other members (specially students) in order for them to feel safe for the duration of our courses.
 
-Procedure for Handling Harassment - Work in Progress
+Procedure for Handling Harassment
 ------------------------------------------
-- [Attendee Procedure for incident handling](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/)
-- [Staff Procedure for incident handling](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents-staff/)
+- [Student Procedure for incident handling](https://github.com/rmotr/code-of-conduct/blob/master/Student%20Procedure%20for%20incident%20handling.md)
+- [Staff Procedure for incident handling](https://github.com/rmotr/code-of-conduct/blob/master/Staff%20Procedure%20for%20incident%20handling.md)
 
 License
 -------
