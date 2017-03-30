@@ -35,7 +35,7 @@ If a participant engages in behavior that violates this code of conduct, staff m
 Contact Information
 -------------------
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff **immediately**. You can always use the **_#mentors-help_** channel in our private slack account if you don't know who to contact. You may also contact us directly to our email at questions@rmotr.com.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact rmotr.com staff **immediately**. You can always use the **_#mentors-help_** channel in our private slack account if you don't know who to contact. You may also contact us directly to our email at questions@rmotr.com.
 
 If the matter is especially urgent, please call/contact any of these individuals:
 
