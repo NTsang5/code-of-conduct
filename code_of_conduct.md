@@ -1,16 +1,13 @@
-rmotr.com is an online programming bootcamp that puts values first. We're a group of people learning and interacting together, creating bonds and sharing knowledge and support. We'll use the word **member** to refer indistinguishably to students, instructors, mentors, staff, advisors, investors, guests, and any other individuals in any way affiliated with rmotr.com
+rmotr.com is an online programming bootcamp that puts values first. We're a group of people learning and interacting together, creating bonds and sharing knowledge and support. We'll use the word **member** to refer indistinguishably to students, instructors, mentors, other staff, advisors, investors, guests, and any other individuals in any way affiliated with rmotr.com. We use the word **staff** to refer to instructors, mentors, and any other individuals who work with students or work on anything intended for student use. 
 
-We value the participation of every person in the community and want all our students to have an enjoyable and fulfilling experience. Accordingly, all members are expected to show respect and courtesy to other members. All of our members must conform to the following Code of Conduct. Instructors, mentors, and other staff are obligated to enforce this code.
+We value the participation of every person in the community and want all our students to have an enjoyable and fulfilling experience. Accordingly, all members are expected to show respect and courtesy to other members. All of our members must conform to the following Code of Conduct. All staff are obligated to enforce this code.
 
-The Short Version
+Policy Detail
 -----------------
 
 rmotr.com is dedicated to providing a harassment-free educational experience for everyone. We respect the right of each member to have such an experience, regardless of gender, sexual orientation, disability, physical appearance, race, country of origin, economic status, or religion. We do not tolerate harassment in any form.
 
-All communication should be appropriate for a professional audience. We will not tolerate hateful, disrespectful, pornographic / sexual, racist, or exclusionary language. Students violating these rules may be asked to leave rmotr.com without a refund at the sole discretion of rmotr's staff members. Thank you for helping us make this a welcoming, friendly environment for all.
-
-The Longer Version
-------------------
+All communication should be appropriate for a professional audience. We will not tolerate hateful, disrespectful, pornographic / sexual, racist, or exclusionary communications. Students violating these rules may be asked to leave rmotr.com without a refund at the sole discretion of rmotr's staff. Thank you for helping us make this a welcoming, friendly environment for all.
 
 Harassment includes making comments in any form that cause offense on the basis of gender, sexual orientation, disability, physical appearance, race, country of origin, economic status, or religion. It also includes posting sexual images in public or private spaces, deliberately attempting to intimidate someone, stalking someone virtually or otherwise, and engaging in other forms of beahavior that clearly violate norms of acceptable, non-harmful behavior in a professional setting. If told to do so by rmotr staff, any member that has committed harassment is expected to comply immediately. If a participant engages in behavior that violates this Code of Conduct, staff members may take any action they deem appropriate, including warning the offender or expelling them from the bootcamp with no refund.
 
