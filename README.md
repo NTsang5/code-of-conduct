@@ -2,10 +2,8 @@
 
 _This is a fork of the [Python/PyCon Code of Conduct](https://github.com/python/pycon-code-of-conduct). Thanks @adriarichards, @dianaclarke, @jnoller, @pythonchelle, @tobych and others for leading the way._
 
-This repository contains a public and versioned document specifying the Code of Counduct that's employed at [rmotr.com](https://rmotr.com).
+This repository contains a public and versioned document specifying the Code of Counduct that is employed at [rmotr.com](https://rmotr.com).
 
-Everyone that's part of rmotr.com in any way (students, mentors, instructors, staff, advisors, investors) must comply with this Code of Conduct, and **NO** exceptions will be allowed.
+Everyone who plays a role at rmotr.com in any way (including students, mentors, instructors, staff, advisors, investors, and others) must comply with this Code of Conduct. Breaches of this code will be fairly investigated and promptly addressed. 
 
-A breach to this code of conduct will result in the immediate and irrevocable expulsion of that member.
-
-This document is open to discussion and suggestions, feel free to submit your ideas or contributions.
+This document is open to discussion and suggestions. Please feel free to submit your ideas and contributions by email or through pull requests on GitHub.
