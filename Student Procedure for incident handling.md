@@ -22,8 +22,4 @@ The important information consists of:
 
 The staff is well informed on how to deal with the incident and how to further proceed with the situation.
 
-**Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they
-will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for
-the offenders, and the community at large, to grow, learn, and become better. RMOTR staff requests
-that they be your first resource when reporting any incident, so that they may enforce
-the Code of Conduct and take quick action toward a resolution.
+**Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they will not be tolerated. In many cases, these incidents present a chance for the offenders, and the community at large, to grow, learn, and become better. RMOTR staff requests that they be your first resource when reporting any incident, so that they may enforce the Code of Conduct and take quick action toward a resolution.
