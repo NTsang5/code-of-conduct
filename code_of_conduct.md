@@ -1,48 +1,28 @@
-rmotr.com is a programming bootcamp that puts human values first. We're a group of people learning and interacting together. Creating bonds, sharing knowledge and support.
+rmotr.com is an online programming bootcamp that puts values first. We're a group of people learning and interacting together, creating bonds and sharing knowledge and support. We'll use the word **member** to refer indistinguishably to students, instructors, mentors, staff, advisors, investors, guests, and any other individuals in any way affiliated with rmotr.com
 
-We'll use the word **member** to refer indistinguishably to students, instructors, mentors, employees, advisors, investors, guests or any other individual in any way affiliated or part of rmotr.com
-
-We value the participation of every person of the community and want all our students to have an enjoyable and fulfilling experience. Accordingly, all members (including Students) are expected to show respect and courtesy to other members throughout the lifetime of their participation at rmotr.com (students while taking their courses, mentors while mentoring coding sessions, etc).
-
-To make clear what is expected, all our members to conform to the following Code of Conduct. Staff members are obligated to enforce this code.
+We value the participation of every person in the community and want all our students to have an enjoyable and fulfilling experience. Accordingly, all members are expected to show respect and courtesy to other members. All of our members must conform to the following Code of Conduct. Instructors, mentors, and other staff are obligated to enforce this code.
 
 The Short Version
 -----------------
 
-rmotr.com is dedicated to providing a harassment-free educational experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of members in any form.
+rmotr.com is dedicated to providing a harassment-free educational experience for everyone. We respect the right of each member to have such an experience, regardless of gender, sexual orientation, disability, physical appearance, race, country of origin, economic status, or religion. We do not tolerate harassment in any form.
 
-All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any conference venue, including talks.
-
-Be kind to others. Do not insult or put down other members. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
-
-Students violating these rules may be asked to leave rmotr.com without a refund at the sole discretion of the rmotr's staff members.
-
-Thank you for helping make this a welcoming, friendly environment and community for all.
+All communication should be appropriate for a professional audience. We will not tolerate hateful, disrespectful, pornographic / sexual, racist, or exclusionary language. Students violating these rules may be asked to leave rmotr.com without a refund at the sole discretion of rmotr's staff members. Thank you for helping us make this a welcoming, friendly environment for all.
 
 The Longer Version
 ------------------
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of lectures, other student's questions or other events, inappropriate physical contact, and unwelcome sexual attention.
-
-Members asked to stop any harassing behavior are expected to comply **immediately**.
-
-To make this clear once again. **Every one** at rmotr is also subject to the anti-harassment policy. Sexualized images, activities, or other material, sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment will not be allowed or tolerated.
-
-Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate either.
-
-If a participant engages in behavior that violates this code of conduct, staff members may take any action they deem appropriate, including warning the offender or expulsion from the bootcamp with no refund.
+Harassment includes making comments in any form that cause offense on the basis of gender, sexual orientation, disability, physical appearance, race, country of origin, economic status, or religion. It also includes posting sexual images in public or private spaces, deliberately attempting to intimidate someone, stalking someone virtually or otherwise, and engaging in other forms of beahavior that clearly violate norms of acceptable, non-harmful behavior in a professional setting. If told to do so by rmotr staff, any member that has committed harassment is expected to comply immediately. If a participant engages in behavior that violates this Code of Conduct, staff members may take any action they deem appropriate, including warning the offender or expelling them from the bootcamp with no refund.
 
 Contact Information
 -------------------
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact rmotr.com staff **immediately**. You can always use the **_#mentors-help_** channel in our private slack account if you don't know who to contact. You may also contact us directly to our email at questions@rmotr.com.
-
-If the matter is especially urgent, please call/contact any of these individuals:
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact rmotr.com staff immediately. You can always use the **_#mentors-help_** channel in our private slack account if you don't know who to contact. You may also contact us directly at questions@rmotr.com. If the matter is especially urgent, please contact either of these individuals:
 
 - Santiago Basulto at santiago@rmotr.com | +54 (9221) 574-4918
 - Martin Zugnoni at martin@rmotr.com | +54 (9221) 525-6859
 
-rmotr.com staff will be in charge of assisting other members (specially students) in order for them to feel safe for the duration of our courses.
+rmotr.com staff will be in charge of assisting other members (especially students) in order for them to feel safe for the duration of our courses.
 
 Procedure for Handling Harassment
 ------------------------------------------
